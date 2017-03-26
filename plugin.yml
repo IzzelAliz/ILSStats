@@ -1,0 +1,17 @@
+name: ILSStats
+main: com.ilummc.ilsstats.Main
+version: 1.0
+author: IzzelAliz
+depend: [ItemLoreStats, EasyScoreboards]
+softdepend: [AuthMe]
+commands:
+  ilsstats:
+    description: Commands
+    usage: /ilsstats reload
+permissions:
+  ilsstats.show:
+    description: Player who can see scoreboard
+    default: true
+  ilsstats.biome:
+    description: Player who can see biome message
+    default: true

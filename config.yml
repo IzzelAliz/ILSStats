@@ -1,0 +1,7 @@
+# setting
+use-multijump: true
+multijump-lore: '多段跳'
+default-multijump: 0
+use-offhand: true
+use-nogravity: true
+nogravity-lore: '无重力影响'
